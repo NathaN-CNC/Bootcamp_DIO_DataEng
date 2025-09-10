@@ -15,7 +15,7 @@ pip install package_name
 ## Usage
 
 ```python
-from package_name.module1_name import file1_name
+from img_processing.module1_name import file1_name
 file1_name.my_function()
 ```
 
