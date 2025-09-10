@@ -1,4 +1,4 @@
-# package_name
+# img_processing
 Description. 
 The package img_processing is used to:
 	- histogram overlay
