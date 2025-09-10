@@ -9,7 +9,7 @@ The package img_processing is used to:
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install img_processing
 
 ```bash
-pip install package_name
+pip install img_processing
 ```
 
 ## Usage
