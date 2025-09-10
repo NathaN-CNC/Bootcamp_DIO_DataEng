@@ -1,7 +1,7 @@
 # package_name
 Description. 
-The package package_name is used to:
-	- 
+The package img_processing is used to:
+	- histogram overlay
 	-
 
 ## Installation
