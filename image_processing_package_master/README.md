@@ -1,21 +1,21 @@
 # img_processing
 Description. 
-The package img_processing is used to:
+The package image_processing is used to:
 	- histogram overlay
 	-
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install img_processing
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_processing
 
 ```bash
-pip install img_processing
+pip install image_processing
 ```
 
 ## Usage
 
 ```python
-from img_processing.module1_name import file1_name
+from image_processing.module1_name import file1_name
 file1_name.my_function()
 ```
 
